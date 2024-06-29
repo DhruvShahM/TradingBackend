@@ -1,7 +1,7 @@
 package tradingclone.trading.modal;
 
 import lombok.Data;
-import tradingclone.trading.Domain.VerificationType;
+import tradingclone.trading.domain.VerificationType;
 
 @Data
 public class TwoFactorAuth {

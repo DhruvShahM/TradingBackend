@@ -3,7 +3,7 @@ package tradingclone.trading.modal;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.Data;
-import tradingclone.trading.Domain.USER_ROLE;
+import tradingclone.trading.domain.USER_ROLE;
 
 @Entity
 @Data

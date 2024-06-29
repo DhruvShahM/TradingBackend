@@ -1,4 +1,4 @@
-package tradingclone.trading.Domain;
+package tradingclone.trading.domain;
 
 public enum USER_ROLE {
     ROLE_ADMIN,
